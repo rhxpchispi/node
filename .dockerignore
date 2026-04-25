@@ -1,5 +1,7 @@
 node_modules/
 .dockerignore
 .gitignore
+compose.yml
 Dockerfile
 index.js
+README.md
