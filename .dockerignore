@@ -3,5 +3,6 @@ node_modules/
 .gitignore
 compose.yml
 Dockerfile
+Jenkinsfile
 index.js
 README.md
